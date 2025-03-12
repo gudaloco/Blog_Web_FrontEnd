@@ -19,13 +19,13 @@ export class PostListComponent {
     {
       id:2,
       titulo: 'Segundo Post',
-      data: '20/10/2015',
+      data: '05/10/2010',
       conteudo: 'Este é o conteúdo do segundo post',
     },
     {
       id:3,
       titulo: 'Terceiro Post',
-      data: '20/10/2015',
+      data: '10/10/2002',
       conteudo: 'Este é o conteúdo do terceiro post',
     },
   ]

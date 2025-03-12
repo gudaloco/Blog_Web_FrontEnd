@@ -13,8 +13,8 @@ export class PostDetailComponent {
   post: any;
   posts = [
     { id: 1, titulo: 'Hatsune Miku', data: '31/08/2007', conteudo: 'Hatsune Miku (japonês: 初音ミク) é um software de voicebank para Vocaloid desenvolvido pela Crypton Future Media e sua personagem mascote oficial de antropomorfismo moe, com longas maria-chiquinhas turquesa. A personificação de Miku foi comercializada como uma ídolo virtual e já se apresentou em vários shows em palco como uma projeção em 3D (retroprojeção em uma tela de vidro com revestimento especial).' },
-    { id: 2,  titulo: 'mama', data: '05/10/2010', conteudo: 'allllllllllllllll' },
-    { id: 3, titulo: 'aeeeeeeeeee', data: '10/10/2002', conteudo: 'wggwgwgwg' },
+    { id: 2, titulo: 'Exemplo 2', data: '05/10/2010', conteudo: 'Conteudo exemplo 2' },
+    { id: 3, titulo: 'Exemplo 3', data: '10/10/2002', conteudo: 'Connteudo exemplo 3' },
   ];
 
   constructor(private route: ActivatedRoute ) {
